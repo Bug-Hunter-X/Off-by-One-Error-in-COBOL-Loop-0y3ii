@@ -1,0 +1,1 @@
+This repository contains an example of a common off-by-one error in COBOL loops. The bug is caused by an incorrect loop condition that results in one extra iteration. The solution demonstrates how to fix this error by adjusting the loop condition.
